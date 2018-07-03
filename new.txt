@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-heihiehie
-=======
 heihiehiefatal
->>>>>>> be020607ad353ddda761d8bc27cac03496ae8aa6
 
