@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-heihiehieokok
-=======
 heihiehiefatal
->>>>>>> d918007... Update new.txt
-
